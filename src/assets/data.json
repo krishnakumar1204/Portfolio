@@ -2,7 +2,7 @@
   "projects": [
     {
       "title": "Movix",
-      "description": "A web application where users can view information and official video clips about movies and TV shows. They can sort the list according to rating, popularity, release date, and title. The content is categorized into different genres for easy navigation.",
+      "description": "A web application where users can view information and official video clips about movies and TV shows. They can sort the list according to rating, popularity, release date, and title.",
       "url": "https://movix-gray.vercel.app/",
       "imgSrc": "https://ggsc.s3.amazonaws.com/images/uploads/Greater_Goodies_2023.jpg"
     },
