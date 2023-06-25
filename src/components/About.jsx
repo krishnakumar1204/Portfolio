@@ -11,7 +11,7 @@ const About = () => {
                     <img src={img} alt="profile" />
                 </div>
                 <div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit soluta maiores qui accusantium consectetur consequatur sint quae blanditiis in praesentium tempore provident laudantium magni incidunt ad error at, laborum consequuntur! Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit soluta maiores qui accusantium consectetur consequatur sint quae blanditiis in praesentium tempore provident laudantium magni incidunt ad error at, laborum consequuntur!</p>
+                    <p>Hello, I am a 2023 Electrical Engineering Graduate from NIT Hamirpur, specializing in web development. With experience in Full Stack Development on the MERN stack, I have successfully completed projects such as Movix, a movie catalogue web app, ClipHUB, a video clip web app, Simon Game, a memory-based game, and a personal portfolio website built with ReactJS and SCSS. I am passionate about creating innovative web solutions that enhance user experiences.</p>
                 </div>
             </div>
         </div>
