@@ -27,7 +27,7 @@
     },
     {
       "title": "Simon Game",
-      "description": "•	A memory-based game in which users must remember the order in which cards blinked and press them in the same order. At each level one more card will blink, and you must remember its previous order.",
+      "description": "A memory-based game in which users must remember the order in which cards blinked and press them in the same order. At each level one more card will blink, and you must remember its previous order.",
       "url": "https://simon-game-ten-sand.vercel.app/",
       "imgSrc": "https://user-images.githubusercontent.com/46281169/60651872-8a8c2480-9e60-11e9-9e6f-feeb76e6e159.PNG"
     }
