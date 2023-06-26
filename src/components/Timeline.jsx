@@ -1,5 +1,5 @@
 import React from "react";
-let index=0;
+let index=1;
 
 const Timeline = () => {
   return (
