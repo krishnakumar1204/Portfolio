@@ -37,7 +37,7 @@ const Timeline = () => {
             <h2>Secondary Education</h2>
             <h4>Nathuni Durga High School, Purandra Bhelahi</h4>
             <p>March 2014 - April 2016</p>
-            <p>Science, Maths, S. Science, Hindi, English, Sanskrit</p>
+            <p>Science, Maths, S. Science, Hindi, English and Sanskrit</p>
             <p>Percentage: 76.6%</p>
           </div>
         </div>
