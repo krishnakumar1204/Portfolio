@@ -2,32 +2,32 @@
   "projects": [
     {
       "title": "Movix",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "A web application where users can view information and official video clips about movies and TV shows. They can sort the list according to rating, popularity, release date, and title.",
       "url": "https://movix-gray.vercel.app/",
       "imgSrc": "https://ggsc.s3.amazonaws.com/images/uploads/Greater_Goodies_2023.jpg"
     },
 
     {
       "title": "ClipHUB",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "Welcome to Clip Hub, the ultimate destination for all your video clip needs! We are a dynamic project dedicated to curating a vast collection of video clips spanning various genres, styles, and themes.",
       "url": "https://clip-hub.vercel.app",
       "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
     },
     {
       "title": "XCrypto",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "A comprehensive crypto information web app providing real-time market data, news updates, portfolio tracking, and educational resources.",
       "url": "https://xcrypto-flame.vercel.app/",
       "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
     },
     {
       "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "A fully responsive web application which showcases my skills, projects, educations, and experience, aiming to impress potential employers and clients with my talent and dedication.",
       "url": "/",
       "imgSrc": "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/24_The%2014%20Best%20Graphic%20Design%20Portfolios%20Weve%20Ever%20Seen%2C%20%26%20How%20to%20Start%20Your%20Own.jpg?%20How%20to%20Start%20Your%20Own.jpg&width=595&height=400&name=24_The%2014%20Best%20Graphic%20Design%20Portfolios%20Weve%20Ever%20Seen%2C%20%26%20How%20to%20Start%20Your%20Own.jpg?%20How%20to%20Start%20Your%20Own.jpg"
     },
     {
       "title": "Simon Game",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "description": "A memory-based game in which users must remember the order in which cards blinked and press them in the same order.",
       "url": "https://simon-game-ten-sand.vercel.app/",
       "imgSrc": "https://user-images.githubusercontent.com/46281169/60651872-8a8c2480-9e60-11e9-9e6f-feeb76e6e159.PNG"
     }
